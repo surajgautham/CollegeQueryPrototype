@@ -1,0 +1,2 @@
+# CollegeQueryPrototype
+A simple prtotype
